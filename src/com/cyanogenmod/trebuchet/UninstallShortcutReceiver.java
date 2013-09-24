@@ -25,6 +25,8 @@ import android.database.Cursor;
 import android.net.Uri;
 import android.widget.Toast;
 
+import com.cyanogenmod.trebuchet.R;
+
 import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.HashSet;

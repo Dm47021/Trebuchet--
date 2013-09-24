@@ -24,6 +24,8 @@ import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
 import android.widget.TextView;
 
+import com.cyanogenmod.trebuchet.R;
+
 
 /**
  * Implements a DropTarget.

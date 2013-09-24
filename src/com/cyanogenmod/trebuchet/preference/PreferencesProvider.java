@@ -20,8 +20,8 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 
-import com.cyanogenmod.trebuchet.AppsCustomizePagedView;
 import com.cyanogenmod.trebuchet.Workspace;
+import com.cyanogenmod.trebuchet.AppsCustomizePagedView;
 
 import java.util.Map;
 

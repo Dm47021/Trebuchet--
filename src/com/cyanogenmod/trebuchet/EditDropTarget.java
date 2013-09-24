@@ -16,6 +16,7 @@
 
 package com.cyanogenmod.trebuchet;
 
+import android.content.ComponentName;
 import android.content.Context;
 import android.content.res.ColorStateList;
 import android.content.res.Configuration;
@@ -24,6 +25,8 @@ import android.graphics.drawable.TransitionDrawable;
 import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.cyanogenmod.trebuchet.R;
 
 public class EditDropTarget extends ButtonDropTarget {
 

@@ -29,7 +29,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.SpinnerAdapter;
-
 import com.cyanogenmod.trebuchet.R;
 
 public abstract class CustomAbsSpinner extends CustomAdapterView<SpinnerAdapter> {

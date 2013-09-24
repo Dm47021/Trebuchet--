@@ -30,6 +30,8 @@ import android.graphics.Rect;
 import android.view.View;
 import android.view.animation.DecelerateInterpolator;
 
+import com.cyanogenmod.trebuchet.R;
+
 public class DragView extends View {
     private static float sDragAlpha = 1f;
 

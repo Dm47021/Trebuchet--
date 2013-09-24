@@ -25,6 +25,8 @@ import android.util.AttributeSet;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
+import com.cyanogenmod.trebuchet.R;
+
 public class HolographicLinearLayout extends LinearLayout {
 
     private final HolographicViewHelper mHolographicHelper;
