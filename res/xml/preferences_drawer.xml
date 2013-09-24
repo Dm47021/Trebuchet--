@@ -15,7 +15,6 @@
 -->
 
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:launcher="http://schemas.android.com/apk/res/com.cyanogenmod.trebuchet"
     android:key="ui_drawer"
     android:title="@string/preferences_interface_drawer_title">
     <ListPreference android:key="ui_drawer_orientation"

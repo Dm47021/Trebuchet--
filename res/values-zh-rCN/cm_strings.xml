@@ -13,7 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources>
     <string name="application_copyright">版权所有 \u00A9 2013 CyanogenMod 项目</string>
     <string name="menu">菜单</string>
     <string name="cancel_target_label">取消</string>

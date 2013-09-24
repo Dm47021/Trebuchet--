@@ -21,7 +21,6 @@ import android.appwidget.AppWidgetProviderInfo;
 import android.content.ComponentName;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
-import android.content.Intent;
 import android.os.Parcelable;
 
 /**

@@ -38,6 +38,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.ListAdapter;
 import android.widget.SpinnerAdapter;
+
 import com.cyanogenmod.trebuchet.widget.CustomAdapterView;
 import com.cyanogenmod.trebuchet.widget.EcoGallery;
 

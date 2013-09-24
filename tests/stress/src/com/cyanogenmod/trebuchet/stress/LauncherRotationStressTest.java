@@ -17,13 +17,12 @@
 package com.cyanogenmod.trebuchet.stress;
 
 
-import com.cyanogenmod.trebuchet.Launcher;
-
 import android.content.pm.ActivityInfo;
 import android.os.SystemClock;
 import android.test.ActivityInstrumentationTestCase2;
 import android.test.RepetitiveTest;
-import android.util.Log;
+
+import com.cyanogenmod.trebuchet.Launcher;
 
 /**
  * Run rotation stress test using Trebuchet for 50 iterations.
