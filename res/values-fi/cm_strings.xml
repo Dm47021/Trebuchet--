@@ -13,7 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="cancel_target_label">Peruuta</string>
     <string name="menu_apps_sort_title">Nimi</string>
     <string name="menu_apps_sort_install_date">Asennuspäivä</string>

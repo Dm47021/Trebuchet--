@@ -19,8 +19,8 @@ package com.cyanogenmod.trebuchet;
 import android.animation.Animator;
 import android.animation.Animator.AnimatorListener;
 import android.animation.TimeInterpolator;
-import android.view.View;
 import android.view.ViewPropertyAnimator;
+import android.view.View;
 
 import java.util.ArrayList;
 import java.util.EnumSet;

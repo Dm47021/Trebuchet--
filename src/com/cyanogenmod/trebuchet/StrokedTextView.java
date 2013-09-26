@@ -27,6 +27,8 @@ import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
 import android.widget.TextView;
 
+import com.cyanogenmod.trebuchet.R;
+
 /**
  * This class adds a stroke to the generic TextView allowing the text to stand out better against
  * the background (ie. in the AllApps button).

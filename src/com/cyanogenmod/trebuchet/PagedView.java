@@ -42,6 +42,8 @@ import android.view.accessibility.AccessibilityNodeInfo;
 import android.view.animation.Interpolator;
 import android.widget.Scroller;
 
+import com.cyanogenmod.trebuchet.R;
+
 import java.util.ArrayList;
 
 /**

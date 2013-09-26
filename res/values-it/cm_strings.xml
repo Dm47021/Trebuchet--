@@ -13,7 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="menu">Menù</string>
     <string name="cancel_target_label">Cancella</string>
     <string name="edit_target_label">Modifica</string>

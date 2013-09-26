@@ -17,17 +17,18 @@
 package com.cyanogenmod.trebuchet.preference;
 
 import android.content.Context;
-import android.content.res.Resources;
 import android.content.res.TypedArray;
 import android.preference.DialogPreference;
+import android.preference.Preference;
 import android.util.AttributeSet;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
+import android.widget.TextView;
 import android.widget.EditText;
 import android.widget.NumberPicker;
-import android.widget.TextView;
-
 import com.cyanogenmod.trebuchet.R;
+import android.content.res.*;
 
 /*
  * @author Danesh

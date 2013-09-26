@@ -29,9 +29,9 @@ import android.graphics.Canvas;
 import android.graphics.drawable.Drawable;
 import android.text.TextUtils;
 
-import com.cyanogenmod.trebuchet.preference.PreferencesProvider;
-
 import java.util.HashMap;
+
+import com.cyanogenmod.trebuchet.preference.PreferencesProvider;
 
 /**
  * Cache of application icons.  Icons can be made from any thread.
