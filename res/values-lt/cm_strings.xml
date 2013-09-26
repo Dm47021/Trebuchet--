@@ -14,7 +14,7 @@
      limitations under the License.
 -->
 
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources>
     <string name="hidden_apps_title">Slepiamos</string>
     <string name="preferences_title">Nustatymai</string>
     <string name="preferences_interface_title">Išvaizda</string>

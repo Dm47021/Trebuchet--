@@ -26,7 +26,6 @@ import android.content.res.Configuration;
 import android.database.ContentObserver;
 import android.os.Handler;
 
-import com.cyanogenmod.trebuchet.R;
 import com.cyanogenmod.trebuchet.preference.PreferencesProvider;
 
 import java.lang.ref.WeakReference;

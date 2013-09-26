@@ -16,9 +16,9 @@
 
 package com.cyanogenmod.trebuchet;
 
-import java.util.ArrayList;
-
 import android.content.ContentValues;
+
+import java.util.ArrayList;
 
 /**
  * Represents a folder containing shortcuts or apps.

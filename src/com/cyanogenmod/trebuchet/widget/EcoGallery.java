@@ -34,6 +34,7 @@ import android.view.ViewConfiguration;
 import android.view.ViewGroup;
 import android.view.animation.Transformation;
 import android.widget.Scroller;
+
 import com.cyanogenmod.trebuchet.R;
 
 public class EcoGallery extends CustomAbsSpinner implements GestureDetector.OnGestureListener {

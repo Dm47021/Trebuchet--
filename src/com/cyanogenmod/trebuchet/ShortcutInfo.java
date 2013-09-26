@@ -16,14 +16,14 @@
 
 package com.cyanogenmod.trebuchet;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-
 import android.content.ComponentName;
 import android.content.ContentValues;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.util.Log;
+
+import java.util.ArrayList;
+import java.util.Arrays;
 
 /**
  * Represents a launchable icon on the workspaces and in folders.
