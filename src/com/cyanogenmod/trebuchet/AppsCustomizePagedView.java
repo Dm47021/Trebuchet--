@@ -362,6 +362,8 @@ public class AppsCustomizePagedView extends PagedViewWithDraggableItems implemen
 
     private static final int SCROLLING_INDICATOR_TOP = 1;
     private static final int SCROLLING_INDICATOR_BOTTOM = 0;
+	protected int mScrollX = getScrollX();
+	protected int mScrollY = getScrollY();
 
     public AppsCustomizePagedView(Context context, AttributeSet attrs) {
         super(context, attrs);

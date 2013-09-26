@@ -207,6 +207,10 @@ public abstract class PagedView extends ViewGroup implements ViewGroup.OnHierarc
 	protected final int mPaddingTop = getPaddingTop();
 	protected final int mPaddingBottom = getPaddingBottom();
 	
+	//mScroll fix
+	protected int mScrollX = getScrollX();
+	protected int mScrollY = getScrollY();
+	
 	
 
     // If set, will defer loading associated pages until the scrolling settles
