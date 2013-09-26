@@ -33,6 +33,29 @@
         <!-- The source view to delegate touch presses events to. -->
         <attr name="sourceViewId" format="integer" />
     </declare-styleable>
+	
+	<declare-styleable name="DialogPreference">
+		<!-- The title in the dialog. -->
+		<attr name="dialogTitle" format="string"/>
+		<!--
+		The message in the dialog. If a dialogLayout is provided and contains a TextView with ID android:id/message, this message will be placed in there.
+		-->
+		<attr name="dialogMessage" format="string"/>
+		<!-- The icon for the dialog. -->
+		<attr name="dialogIcon" format="reference"/>
+		<!--
+		The positive button text for the dialog. Set to @null to hide the positive button.
+		-->
+		<attr name="positiveButtonText" format="string"/>
+		<!--
+		The negative button text for the dialog. Set to @null to hide the negative button.
+		-->
+		<attr name="negativeButtonText" format="string"/>
+		<!--
+		A layout to be used as the content View for the dialog. By default, this shouldn't be needed. If a custom DialogPreference is required, this should be set. For example, the EditTextPreference uses a layout with an EditText as this attribute.
+		-->
+		<attr name="dialogLayout" format="reference"/>
+	</declare-styleable>
 
     <!-- Cling specific attributes. These attributes are used to customize
          the cling in XML files. -->

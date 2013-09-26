@@ -28,6 +28,7 @@ import android.widget.TextView;
 import android.widget.EditText;
 import android.widget.NumberPicker;
 import com.cyanogenmod.trebuchet.R;
+import android.content.res.*;
 
 /*
  * @author Danesh
@@ -126,8 +127,9 @@ public class DoubleNumberPickerPreference extends DialogPreference {
         }
 
         // No keyboard popup
-        EditText textInput1 = (EditText) mNumberPicker1.findViewById(R.id.numberpicker_input);
-        EditText textInput2 = (EditText) mNumberPicker2.findViewById(R.id.numberpicker_input);
+		int id = Resources.getSystem().getIdentifier("numberpicker_input", "id", "android");
+        EditText textInput1 = (EditText) mNumberPicker1.findViewById(id);
+        EditText textInput2 = (EditText) mNumberPicker2.findViewById(id);
         if (textInput1 != null && textInput2 != null) {
             textInput1.setCursorVisible(false);
             textInput1.setFocusable(false);

@@ -28,6 +28,7 @@ import android.widget.LinearLayout;
 import android.widget.NumberPicker;
 
 import com.cyanogenmod.trebuchet.R;
+import android.content.res.*;
 
 /*
  * @author Danesh
@@ -54,7 +55,7 @@ public class NumberPickerPreference extends DialogPreference {
         mMax = numberPickerType.getInt(R.styleable.NumberPickerPreference_max, 5);
         mMin = numberPickerType.getInt(R.styleable.NumberPickerPreference_min, 0);
 
-        mDefault = dialogType.getInt(R.styleable.Preference_defaultValue, mMin);
+        mDefault = dialogType.getInt(0, mMin);
 
         dialogType.recycle();
         numberPickerType.recycle();
@@ -86,7 +87,8 @@ public class NumberPickerPreference extends DialogPreference {
         mNumberPicker.setWrapSelectorWheel(false);
 
         // No keyboard popup
-        EditText textInput = (EditText) mNumberPicker.findViewById(R.id.numberpicker_input);
+		int id = Resources.getSystem().getIdentifier("numberpicker_input", "id", "android");
+        EditText textInput = (EditText) mNumberPicker.findViewById(id);
         textInput.setCursorVisible(false);
         textInput.setFocusable(false);
         textInput.setFocusableInTouchMode(false);

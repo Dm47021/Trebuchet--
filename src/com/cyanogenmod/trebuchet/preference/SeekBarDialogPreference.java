@@ -32,7 +32,7 @@ public class SeekBarDialogPreference extends DialogPreference implements SeekBar
         mMax = seekBarType.getInt(R.styleable.SeekBarDialogPreference_max, 100);
         mMin = seekBarType.getInt(R.styleable.SeekBarDialogPreference_min, 0);
 
-        mDefault = dialogType.getInt(R.styleable.Preference_defaultValue, mMin);
+        mDefault = dialogType.getInt(0, mMin);
 
         mPrefix = seekBarType.getString(R.styleable.SeekBarDialogPreference_prefix);
         mSuffix = seekBarType.getString(R.styleable.SeekBarDialogPreference_suffix);

@@ -191,11 +191,6 @@ public class EcoGallery extends CustomAbsSpinner implements GestureDetector.OnGe
         setUnselectedAlpha(unselectedAlpha);
 
         a.recycle();
-
-        // We draw the selected item last (because otherwise the item to the
-        // right overlaps it)
-        mGroupFlags |= FLAG_USE_CHILD_DRAWING_ORDER;
-        mGroupFlags |= FLAG_SUPPORT_STATIC_TRANSFORMATIONS;
     }
 
     /**

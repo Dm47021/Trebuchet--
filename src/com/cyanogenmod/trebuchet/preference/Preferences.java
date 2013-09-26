@@ -105,15 +105,6 @@ public class Preferences extends PreferenceActivity
     }
 
     @Override
-    public void setListAdapter(ListAdapter adapter) {
-        if (adapter == null) {
-            super.setListAdapter(null);
-        } else {
-            super.setListAdapter(new HeaderAdapter(this, getHeaders()));
-        }
-    }
-
-    @Override
     public void onSharedPreferenceChanged(SharedPreferences sharedPreferences, String key) {
         SharedPreferences.Editor editor = mPreferences.edit();
         editor.putBoolean(PreferencesProvider.PREFERENCES_CHANGED, true);
