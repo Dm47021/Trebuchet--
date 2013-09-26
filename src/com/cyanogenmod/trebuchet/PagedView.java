@@ -200,6 +200,14 @@ public abstract class PagedView extends ViewGroup implements ViewGroup.OnHierarc
     protected static final int sScrollIndicatorFadeOutShortDuration = 150;
     protected static final int sScrollIndicatorFlashDuration = 650;
     private boolean mScrollingPaused = false;
+	
+	//mPadding fix
+	protected final int mPaddingLeft = getPaddingLeft();
+	protected final int mPaddingRight = getPaddingRight();
+	protected final int mPaddingTop = getPaddingTop();
+	protected final int mPaddingBottom = getPaddingBottom();
+	
+	
 
     // If set, will defer loading associated pages until the scrolling settles
     private boolean mDeferLoadAssociatedPagesUntilScrollCompletes;
