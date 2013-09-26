@@ -44,7 +44,7 @@ public class NumberPickerPreference extends DialogPreference {
     public NumberPickerPreference(Context context, AttributeSet attrs) {
         super(context, attrs);
         TypedArray dialogType = context.obtainStyledAttributes(attrs,
-                com.android.internal.R.styleable.DialogPreference, 0, 0);
+                R.styleable.DialogPreference, 0, 0);
         TypedArray numberPickerType = context.obtainStyledAttributes(attrs,
                 R.styleable.NumberPickerPreference, 0, 0);
 
@@ -54,7 +54,7 @@ public class NumberPickerPreference extends DialogPreference {
         mMax = numberPickerType.getInt(R.styleable.NumberPickerPreference_max, 5);
         mMin = numberPickerType.getInt(R.styleable.NumberPickerPreference_min, 0);
 
-        mDefault = dialogType.getInt(com.android.internal.R.styleable.Preference_defaultValue, mMin);
+        mDefault = dialogType.getInt(R.styleable.Preference_defaultValue, mMin);
 
         dialogType.recycle();
         numberPickerType.recycle();
@@ -86,7 +86,7 @@ public class NumberPickerPreference extends DialogPreference {
         mNumberPicker.setWrapSelectorWheel(false);
 
         // No keyboard popup
-        EditText textInput = (EditText) mNumberPicker.findViewById(com.android.internal.R.id.numberpicker_input);
+        EditText textInput = (EditText) mNumberPicker.findViewById(R.id.numberpicker_input);
         textInput.setCursorVisible(false);
         textInput.setFocusable(false);
         textInput.setFocusableInTouchMode(false);

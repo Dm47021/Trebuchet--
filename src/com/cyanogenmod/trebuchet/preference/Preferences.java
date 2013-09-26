@@ -273,9 +273,9 @@ public class Preferences extends PreferenceActivity
                                 false);
                         holder.icon = (ImageView) view.findViewById(R.id.icon);
                         holder.title = (TextView)
-                                view.findViewById(com.android.internal.R.id.title);
+                                view.findViewById(android.R.id.title);
                         holder.summary = (TextView)
-                                view.findViewById(com.android.internal.R.id.summary);
+                                view.findViewById(android.R.id.summary);
                         break;
                 }
                 view.setTag(holder);
