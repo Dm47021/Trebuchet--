@@ -14,7 +14,7 @@
      limitations under the License.
 -->
 
-<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.cyanogenmod.trebuchet">
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.osiris.trebuchet">
     <!-- Far-left screen [0] -->
 
     <!-- Left screen [1] -->
@@ -29,8 +29,8 @@
 
     <!-- Middle screen [2] -->
     <appwidget
-        launcher:packageName="com.cyanogenmod.lockclock"
-        launcher:className="com.cyanogenmod.lockclock.ClockWidgetProvider"
+        launcher:packageName="com.osiris.lockclock"
+        launcher:className="com.osiris.lockclock.ClockWidgetProvider"
         launcher:screen="2"
         launcher:x="0"
         launcher:y="0"

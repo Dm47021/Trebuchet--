@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012-2013 The CyanogenMod Project
+<!-- Copyright (C) 2012-2013 The osiris Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -132,6 +132,6 @@
     <string name="preferences_interface_drawer_hidden_apps_shortcuts_summary">Remover atalhos dos aplicativos ocultos da área de trabalho</string>
     <string name="preferences_interface_drawer_hidden_apps_widgets_title">Aplicativos ocultos (widgets)</string>
     <string name="preferences_interface_drawer_hidden_apps_widgets_summary">Remover widgets dos aplicativos ocultos da área de trabalho</string>
-    <string name="application_copyright">Copyright \u00A9 2013 The CyanogenMod Project</string>
+    <string name="application_copyright">Copyright \u00A9 2013 The osiris Project</string>
     <string name="menu">Menu</string>
 </resources>
