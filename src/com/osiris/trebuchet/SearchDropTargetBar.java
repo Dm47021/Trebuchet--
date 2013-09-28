@@ -16,9 +16,9 @@
 
 package com.osiris.trebuchet;
 
-import android.animation.Animator;
-import android.animation.AnimatorListenerAdapter;
-import android.animation.ObjectAnimator;
+import com.nineoldandroids.animation.Animator;
+import com.nineoldandroids.animation.AnimatorListenerAdapter;
+import com.nineoldandroids.animation.ObjectAnimator;
 import android.content.Context;
 import android.graphics.Rect;
 import android.graphics.drawable.Drawable;

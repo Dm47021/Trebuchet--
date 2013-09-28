@@ -12,6 +12,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11904002-df9f-49d1-baca-372514e60895" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/osiris/trebuchet/AppWidgetResizeFrame.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/AppWidgetResizeFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/osiris/trebuchet/AppsCustomizePagedView.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/AppsCustomizePagedView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/osiris/trebuchet/AppsCustomizeTabHost.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/AppsCustomizeTabHost.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/osiris/trebuchet/CellLayout.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/CellLayout.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/osiris/trebuchet/DeleteDropTarget.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/DeleteDropTarget.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/osiris/trebuchet/DragLayer.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/DragLayer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/osiris/trebuchet/DragView.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/DragView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/osiris/trebuchet/Folder.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/Folder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/osiris/trebuchet/FolderIcon.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/FolderIcon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/osiris/trebuchet/InterruptibleInOutAnimator.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/InterruptibleInOutAnimator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/osiris/trebuchet/Launcher.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/Launcher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/osiris/trebuchet/LauncherAnimatorUpdateListener.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/LauncherAnimatorUpdateListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/osiris/trebuchet/LauncherViewPropertyAnimator.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/LauncherViewPropertyAnimator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/osiris/trebuchet/PagedView.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/PagedView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/osiris/trebuchet/RocketLauncher.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/RocketLauncher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/osiris/trebuchet/SearchDropTargetBar.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/SearchDropTargetBar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Trebuchet.iml" afterPath="$PROJECT_DIR$/Trebuchet.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/osiris/trebuchet/Workspace.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/Workspace.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Trebuchet.iws" />
@@ -79,21 +100,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DragView.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="DragView.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/osiris/trebuchet/DragView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="13" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.78289473" vertical-offset="0" max-vertical-offset="4743">
+            <state line="39" column="16" selection-start="1357" selection-end="1357" vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="4930">
               <folding>
-                <element signature="e#0#9537#0" expanded="true" />
+                <element signature="e#0#9561#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="AppWidgetResizeFrame.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/osiris/trebuchet/AppWidgetResizeFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="22" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
+            <state line="18" column="30" selection-start="719" selection-end="719" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7633">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#17531#17703#0" expanded="true" />
+                <element signature="e#17688#17689#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppsCustomizePagedView.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/osiris/trebuchet/AppsCustomizePagedView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="23" selection-start="1454" selection-end="1454" vertical-scroll-proportion="0.0" vertical-offset="239" max-vertical-offset="35564">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Launcher.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/osiris/trebuchet/Launcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="96" column="22" selection-start="3666" selection-end="3666" vertical-scroll-proportion="0.5197368" vertical-offset="1157" max-vertical-offset="64855">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PagedView.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/osiris/trebuchet/PagedView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="10" selection-start="709" selection-end="709" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="32691">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewPropertyAnimatorPreHC.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nineoldandroids/src/com/nineoldandroids/view/ViewPropertyAnimatorPreHC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="213" column="8" selection-start="9314" selection-end="9314" vertical-scroll-proportion="0.0" vertical-offset="2891" max-vertical-offset="12036">
               <folding />
             </state>
           </provider>
@@ -101,13 +163,13 @@
       </file>
       <file leaf-file-name="all_apps_cling.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout-land/all_apps_cling.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="28" selection-start="1022" selection-end="1022" vertical-scroll-proportion="-9.12" vertical-offset="146" max-vertical-offset="918">
-              <folding />
-            </state>
-          </provider>
           <provider editor-type-id="android-designer">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="28" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="918">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -138,6 +200,8 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/res/layout-land/all_apps_cling.xml" />
+        <option value="$PROJECT_DIR$/../nineoldandroids/src/com/nineoldandroids/view/ViewPropertyAnimatorPreHC.java" />
+        <option value="$PROJECT_DIR$/src/com/osiris/trebuchet/AppWidgetResizeFrame.java" />
       </list>
     </option>
   </component>
@@ -237,6 +301,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trebuchet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nineoldandroids" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trebuchet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nineoldandroids" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -245,14 +333,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="vcs.Git" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nineoldandroids" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
@@ -376,31 +468,31 @@
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297414" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962447" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -467,32 +559,176 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/layout-land/all_apps_cling.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="28" selection-start="1022" selection-end="1022" vertical-scroll-proportion="-9.12" vertical-offset="146" max-vertical-offset="918">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/osiris/trebuchet/DragView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="13" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.78289473" vertical-offset="0" max-vertical-offset="4743">
+        <state line="32" column="13" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="4845">
           <folding>
-            <element signature="e#0#9537#0" expanded="true" />
+            <element signature="e#0#9561#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout-land/all_apps_cling.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="28" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout-land/all_apps_cling.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="28" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="22" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/osiris/trebuchet/DragView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="16" selection-start="1357" selection-end="1357" vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="4930">
+          <folding>
+            <element signature="e#0#9561#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nineoldandroids/src/com/nineoldandroids/view/ViewPropertyAnimatorPreHC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="213" column="8" selection-start="9314" selection-end="9314" vertical-scroll-proportion="0.0" vertical-offset="2891" max-vertical-offset="12036">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/osiris/trebuchet/PagedView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="10" selection-start="709" selection-end="709" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="32691">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/osiris/trebuchet/AppWidgetResizeFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="30" selection-start="719" selection-end="719" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7633">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#17531#17703#0" expanded="true" />
+            <element signature="e#17688#17689#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/osiris/trebuchet/AppsCustomizePagedView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="23" selection-start="1454" selection-end="1454" vertical-scroll-proportion="0.0" vertical-offset="239" max-vertical-offset="35564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/osiris/trebuchet/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="22" selection-start="3666" selection-end="3666" vertical-scroll-proportion="0.5197368" vertical-offset="1157" max-vertical-offset="64855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android (Trebuchet)|Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Trebuchet</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 

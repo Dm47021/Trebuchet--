@@ -16,10 +16,10 @@
 
 package com.osiris.trebuchet;
 
-import android.animation.Animator;
-import android.animation.AnimatorListenerAdapter;
-import android.animation.ObjectAnimator;
-import android.animation.ValueAnimator;
+import com.nineoldandroids.animation.Animator;
+import com.nineoldandroids.animation.AnimatorListenerAdapter;
+import com.nineoldandroids.animation.ObjectAnimator;
+import com.nineoldandroids.animation.ValueAnimator;
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.Canvas;
@@ -1794,7 +1794,7 @@ public abstract class PagedView extends ViewGroup implements ViewGroup.OnHierarc
                 mScrollIndicatorAnimator.addListener(new AnimatorListenerAdapter() {
                     private boolean cancelled = false;
                     @Override
-                    public void onAnimationCancel(android.animation.Animator animation) {
+                    public void onAnimationCancel(com.nineoldandroids.animation.Animator animation) {
                         cancelled = true;
                     }
                     @Override

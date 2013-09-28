@@ -20,9 +20,9 @@
 
 package com.osiris.trebuchet;
 
-import android.animation.AnimatorSet;
-import android.animation.ObjectAnimator;
-import android.animation.TimeAnimator;
+import com.nineoldandroids.animation.AnimatorSet;
+import com.nineoldandroids.animation.ObjectAnimator;
+import com.nineoldandroids.animation.TimeAnimator;
 import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;

@@ -17,8 +17,8 @@
 
 package com.osiris.trebuchet;
 
-import android.animation.ValueAnimator;
-import android.animation.ValueAnimator.AnimatorUpdateListener;
+import com.nineoldandroids.animation.ValueAnimator;
+import com.nineoldandroids.animation.ValueAnimator.AnimatorUpdateListener;
 import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;

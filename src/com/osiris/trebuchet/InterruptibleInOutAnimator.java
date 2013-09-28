@@ -16,9 +16,9 @@
 
 package com.osiris.trebuchet;
 
-import android.animation.Animator;
-import android.animation.AnimatorListenerAdapter;
-import android.animation.ValueAnimator;
+import com.nineoldandroids.animation.Animator;
+import com.nineoldandroids.animation.AnimatorListenerAdapter;
+import com.nineoldandroids.animation.ValueAnimator;
 
 /**
  * A convenience class for two-way animations, e.g. a fadeIn/fadeOut animation.

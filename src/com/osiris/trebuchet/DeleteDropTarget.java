@@ -16,9 +16,9 @@
 
 package com.osiris.trebuchet;
 
-import android.animation.TimeInterpolator;
-import android.animation.ValueAnimator;
-import android.animation.ValueAnimator.AnimatorUpdateListener;
+import com.nineoldandroids.animation.TimeInterpolator;
+import com.nineoldandroids.animation.ValueAnimator;
+import com.nineoldandroids.animation.ValueAnimator.AnimatorUpdateListener;
 import android.content.Context;
 import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
