@@ -13,13 +13,12 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<LinearLayout
+<RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="@dimen/qsb_bar_height"
-    android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:layout_height="match_parent">
    <!-- Global search icon -->
-   <com.osiris.trebuchet.HolographicImageView
+   <com.cyanogenmod.trebuchet.HolographicImageView
         style="@style/SearchButton"
         android:id="@+id/search_button"
         android:layout_width="match_parent"
@@ -33,7 +32,7 @@
         android:contentDescription="@string/accessibility_search_button" />
 
     <!-- Voice search icon -->
-    <com.osiris.trebuchet.HolographicImageView
+    <com.cyanogenmod.trebuchet.HolographicImageView
         style="@style/SearchButton"
         android:id="@+id/voice_button"
         android:layout_width="match_parent"
@@ -45,4 +44,4 @@
         android:focusable="true"
         android:clickable="true"
         android:contentDescription="@string/accessibility_voice_search_button" />
-</LinearLayout>
+</RelativeLayout>

@@ -14,9 +14,9 @@
      limitations under the License.
 -->
 
-<com.osiris.trebuchet.PagedViewIcon
+<com.cyanogenmod.trebuchet.PagedViewIcon
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:launcher="http://schemas.android.com/apk/res/com.osiris.trebuchet"
+    xmlns:launcher="http://schemas.android.com/apk/res/com.cyanogenmod.trebuchet"
 
     style="@style/WorkspaceIcon.Landscape.AppsCustomize"
 

@@ -1,4 +1,4 @@
--keep class com.osiris.trebuchet.Launcher {
+-keep class com.cyanogenmod.trebuchet.Launcher {
   public void previousScreen(android.view.View);
   public void nextScreen(android.view.View);
   public void launchHotSeat(android.view.View);
@@ -7,13 +7,12 @@
   public void onClickConfigureButton(android.view.View);
   public void onClickAllAppsButton(android.view.View);
   public void onClickAppMarketButton(android.view.View);
-  public void onClickOverflowMenuButton(android.view.View);
   public void dismissWorkspaceCling(android.view.View);
   public void dismissAllAppsCling(android.view.View);
   public void dismissAllAppsSortCling(android.view.View);
 }
 
--keep class com.osiris.trebuchet.CellLayout {
+-keep class com.cyanogenmod.trebuchet.CellLayout {
   public float getBackgroundAlpha();
   public void setBackgroundAlpha(float);
   public float getDimmableProgress();
@@ -24,7 +23,7 @@
   public void setHoverAlpha(float);
 }
 
--keep class com.osiris.trebuchet.DragLayer$LayoutParams {
+-keep class com.cyanogenmod.trebuchet.DragLayer$LayoutParams {
   public void setWidth(int);
   public int getWidth();
   public void setHeight(int);
@@ -35,7 +34,7 @@
   public int getY();
 }
 
--keep class com.osiris.trebuchet.CellLayout$LayoutParams {
+-keep class com.cyanogenmod.trebuchet.CellLayout$LayoutParams {
   public void setWidth(int);
   public int getWidth();
   public void setHeight(int);
@@ -46,7 +45,7 @@
   public int getY();
 }
 
--keep class com.osiris.trebuchet.Workspace {
+-keep class com.cyanogenmod.trebuchet.Workspace {
   public float getBackgroundAlpha();
   public void setBackgroundAlpha(float);
   public float getChildrenOutlineAlpha();
@@ -57,4 +56,10 @@
   public float getHorizontalWallpaperOffset();
 }
 
--keep class com.osiris.trebuchet.preference.Preferences$*Fragment
+-keep class com.cyanogenmod.trebuchet.AllApps3D$Defines {
+  *;
+}
+
+-keep class com.cyanogenmod.trebuchet.ClippedImageView {
+  *;
+}

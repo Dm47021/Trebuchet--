@@ -19,7 +19,7 @@
         style="@style/DropTargetButtonContainer"
         android:layout_weight="1">
         <!-- Delete target -->
-        <com.osiris.trebuchet.DeleteDropTarget
+        <com.cyanogenmod.trebuchet.DeleteDropTarget
             style="@style/DropTargetButton"
             android:id="@+id/delete_target_text"
             android:text="@string/delete_zone_label_workspace"
@@ -30,21 +30,10 @@
         style="@style/DropTargetButtonContainer"
         android:layout_weight="1">
         <!-- Info target -->
-        <com.osiris.trebuchet.InfoDropTarget
+        <com.cyanogenmod.trebuchet.InfoDropTarget
             style="@style/DropTargetButton"
             android:id="@+id/info_target_text"
             android:text="@string/info_target_label"
             android:drawableLeft="@drawable/info_target_selector" />
-    </FrameLayout>
-    <FrameLayout
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        style="@style/DropTargetButtonContainer"
-        android:layout_weight="1">
-        <!-- Edit target -->
-        <com.osiris.trebuchet.EditDropTarget
-            style="@style/DropTargetButton"
-            android:id="@+id/edit_target_text"
-            android:text="@string/edit_target_label"
-            android:drawableLeft="@drawable/edit_target_selector" />
     </FrameLayout>
 </merge>

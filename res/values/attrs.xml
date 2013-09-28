@@ -33,29 +33,6 @@
         <!-- The source view to delegate touch presses events to. -->
         <attr name="sourceViewId" format="integer" />
     </declare-styleable>
-	
-	<declare-styleable name="DialogPreference">
-		<!-- The title in the dialog. -->
-		<attr name="dialogTitle" format="string"/>
-		<!--
-		The message in the dialog. If a dialogLayout is provided and contains a TextView with ID android:id/message, this message will be placed in there.
-		-->
-		<attr name="dialogMessage" format="string"/>
-		<!-- The icon for the dialog. -->
-		<attr name="dialogIcon" format="reference"/>
-		<!--
-		The positive button text for the dialog. Set to @null to hide the positive button.
-		-->
-		<attr name="positiveButtonText" format="string"/>
-		<!--
-		The negative button text for the dialog. Set to @null to hide the negative button.
-		-->
-		<attr name="negativeButtonText" format="string"/>
-		<!--
-		A layout to be used as the content View for the dialog. By default, this shouldn't be needed. If a custom DialogPreference is required, this should be set. For example, the EditTextPreference uses a layout with an EditText as this attribute.
-		-->
-		<attr name="dialogLayout" format="reference"/>
-	</declare-styleable>
 
     <!-- Cling specific attributes. These attributes are used to customize
          the cling in XML files. -->
@@ -76,8 +53,10 @@
     <!-- Hotseat specific attributes. These attributes are used to customize
          the hotseat in XML files. -->
     <declare-styleable name="Hotseat">
-        <!-- The number of cells in the CellLayout -->
-        <attr name="cellCount" format="integer"  />
+        <!-- The number of horizontal cells in the CellLayout -->
+        <attr name="cellCountX" />
+        <!-- The number of vertical cells in the CellLayout -->
+        <attr name="cellCountY" />
     </declare-styleable>
 
     <!-- CellLayout specific attributes. These attributes are used to customize
@@ -127,9 +106,7 @@
         <attr name="pageSpacing" format="dimension" />
         <!-- The padding for the scroll indicator area -->
         <attr name="scrollIndicatorPaddingLeft" format="dimension" />
-        <attr name="scrollIndicatorPaddingTop" format="dimension" />
         <attr name="scrollIndicatorPaddingRight" format="dimension" />
-        <attr name="scrollIndicatorPaddingBottom" format="dimension" />
     </declare-styleable>
 
     <!-- AppsCustomizePagedView specific attributes.  These attributes are used to
@@ -151,6 +128,13 @@
         <attr name="clingFocusedX" format="integer" />
         <!-- The y index of the item to be focused in the cling -->
         <attr name="clingFocusedY" format="integer" />
+    </declare-styleable>
+
+    <!-- HandleView specific attributes. These attributes are used to customize
+         a HandleView view in XML files. -->
+    <declare-styleable name="HandleView">
+        <!-- Orientation of the handle. -->
+        <attr name="direction" />
     </declare-styleable>
 
     <!-- XML attributes used by default_workspace.xml -->
@@ -199,24 +183,4 @@
         <attr name="pickerTitle1" format="string" />
         <attr name="pickerTitle2" format="string" />
     </declare-styleable>
-
-    <declare-styleable name="SeekBarDialogPreference">
-        <attr name="max" />
-        <attr name="min" />
-        <attr name="prefix" format="string" />
-        <attr name="suffix" format="string" />
-    </declare-styleable>
-
-    <declare-styleable name="EcoGallery">
-        <attr name="gravity" format="integer" />
-        <attr name="animationDuration" format="integer" />
-        <attr name="unselectedAlpha" format="float" />
-        <attr name="spacing" format="dimension" />
-    </declare-styleable>
-    <attr name="ecoGalleryStyle" format="reference" />
-
-    <declare-styleable name="CustomAbsSpinner">
-        <attr name="entries" format="reference" />
-    </declare-styleable>
-    <attr name="customAbsSpinnerStyle" format="reference" />
 </resources>
