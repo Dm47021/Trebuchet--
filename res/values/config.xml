@@ -7,7 +7,7 @@
 <!-- DragController -->
     <integer name="config_flingToDeleteMinVelocity">-1500</integer>
 
-    <bool name="config_cyanogenmod">false</bool>
+    <bool name="config_osiris">false</bool>
 
 <!-- AllApps/Customize/AppsCustomize -->
     <!-- The alpha of the AppsCustomize bg in spring loaded mode -->

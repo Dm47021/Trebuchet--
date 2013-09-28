@@ -19,7 +19,7 @@
 -->
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.cyanogenmod.trebuchet"
+    package="com.osiris.trebuchet"
     android:versionName="@string/application_version">
 
     <original-package android:name="com.android.launcher2" />
@@ -63,13 +63,13 @@
     <uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS" />
 
     <application
-        android:name="com.cyanogenmod.trebuchet.LauncherApplication"
+        android:name="com.osiris.trebuchet.LauncherApplication"
         android:label="@string/application_name"
         android:icon="@drawable/ic_launcher_home"
         android:hardwareAccelerated="@bool/config_hardwareAccelerated"
         android:largeHeap="@bool/config_largeHeap">
         <activity
-            android:name="com.cyanogenmod.trebuchet.Launcher"
+            android:name="com.osiris.trebuchet.Launcher"
             android:launchMode="singleTask"
             android:clearTaskOnLaunch="true"
             android:stateNotNeeded="true"
@@ -84,7 +84,7 @@
         </activity>
 
         <activity
-            android:name="com.cyanogenmod.trebuchet.WallpaperChooser"
+            android:name="com.osiris.trebuchet.WallpaperChooser"
             style="@style/Theme.WallpaperPicker"
             android:label="@string/pick_wallpaper"
             android:icon="@drawable/ic_launcher_wallpaper"
@@ -98,7 +98,7 @@
                 android:resource="@xml/wallpaper_picker_preview" />
         </activity>
 
-        <activity android:name="com.cyanogenmod.trebuchet.RocketLauncher"
+        <activity android:name="com.osiris.trebuchet.RocketLauncher"
             android:label="@string/dream_name"
             android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
             <intent-filter>
@@ -110,14 +110,14 @@
 
         <!-- Intent received used to prepopulate the default workspace. -->
         <receiver
-            android:name="com.cyanogenmod.trebuchet.PreloadReceiver"
+            android:name="com.osiris.trebuchet.PreloadReceiver"
             android:permission="com.android.launcher.permission.PRELOAD_WORKSPACE">
             <intent-filter>
                 <action android:name="com.android.launcher.action.PRELOAD_WORKSPACE" />
             </intent-filter>
         </receiver>
 
-        <activity android:name="com.cyanogenmod.trebuchet.preference.Preferences"
+        <activity android:name="com.osiris.trebuchet.preference.Preferences"
             android:label="@string/preferences_title">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -126,7 +126,7 @@
         </activity>
         <!-- Intent received used to install shortcuts from other applications -->
         <receiver
-            android:name="com.cyanogenmod.trebuchet.InstallShortcutReceiver"
+            android:name="com.osiris.trebuchet.InstallShortcutReceiver"
             android:permission="com.android.launcher.permission.INSTALL_SHORTCUT">
             <intent-filter>
                 <action android:name="com.android.launcher.action.INSTALL_SHORTCUT" />
@@ -135,7 +135,7 @@
 
         <!-- Intent received used to uninstall shortcuts from other applications -->
         <receiver
-            android:name="com.cyanogenmod.trebuchet.UninstallShortcutReceiver"
+            android:name="com.osiris.trebuchet.UninstallShortcutReceiver"
             android:permission="com.android.launcher.permission.UNINSTALL_SHORTCUT">
             <intent-filter>
                 <action android:name="com.android.launcher.action.UNINSTALL_SHORTCUT" />
@@ -144,8 +144,8 @@
 
         <!-- The settings provider contains Home's data, like the workspace favorites -->
         <provider
-            android:name="com.cyanogenmod.trebuchet.LauncherProvider"
-            android:authorities="com.cyanogenmod.trebuchet.settings"
+            android:name="com.osiris.trebuchet.LauncherProvider"
+            android:authorities="com.osiris.trebuchet.settings"
             android:writePermission="com.android.launcher.permission.WRITE_SETTINGS"
             android:readPermission="com.android.launcher.permission.READ_SETTINGS" />
 

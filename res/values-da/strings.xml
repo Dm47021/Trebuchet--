@@ -115,7 +115,7 @@
 
     <!-- General -->
     <!-- Application copyright -->
-    <string name="application_copyright">Copyright \u00A9 CyanogenMod 2012</string>
+    <string name="application_copyright">Copyright \u00A9 osiris 2012</string>
 
     <string name="cancel_target_label">Annuller</string>
 

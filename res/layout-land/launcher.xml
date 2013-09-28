@@ -14,9 +14,9 @@
      limitations under the License.
 -->
 
-<com.cyanogenmod.trebuchet.DragLayer
+<com.osiris.trebuchet.DragLayer
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:launcher="http://schemas.android.com/apk/res/com.cyanogenmod.trebuchet"
+    xmlns:launcher="http://schemas.android.com/apk/res/com.osiris.trebuchet"
 
     android:id="@+id/drag_layer"
     android:background="@drawable/workspace_bg"
@@ -24,7 +24,7 @@
     android:layout_height="match_parent">
 
     <!-- The workspace contains 5 screens of cells -->
-    <com.cyanogenmod.trebuchet.Workspace
+    <com.osiris.trebuchet.Workspace
         android:id="@+id/workspace"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -68,7 +68,7 @@
         android:id="@+id/qsb_bar"
         layout="@layout/qsb_bar" />
 
-    <com.cyanogenmod.trebuchet.DrawableStateProxyView
+    <com.osiris.trebuchet.DrawableStateProxyView
         android:id="@+id/voice_button_proxy"
         android:layout_width="@dimen/qsb_bar_height"
         android:layout_height="@dimen/app_icon_size"
@@ -95,4 +95,4 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:visibility="gone" />
-</com.cyanogenmod.trebuchet.DragLayer>
+</com.osiris.trebuchet.DragLayer>
