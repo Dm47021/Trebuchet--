@@ -12,141 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11904002-df9f-49d1-baca-372514e60895" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\AccessibleTabView.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/AccessibleTabView.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\AddAdapter.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/AddAdapter.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\Alarm.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/Alarm.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\AllAppsList.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/AllAppsList.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\AllAppsView.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/AllAppsView.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\AppWidgetResizeFrame.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/AppWidgetResizeFrame.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\ApplicationInfo.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/ApplicationInfo.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\AppsCustomizePagedView.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/AppsCustomizePagedView.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\AppsCustomizeTabHost.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/AppsCustomizeTabHost.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\BubbleTextView.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/BubbleTextView.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\ButtonDropTarget.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/ButtonDropTarget.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\CellLayout.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/CellLayout.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\CheckLongPressHelper.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/CheckLongPressHelper.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\Cling.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/Cling.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\DeferredHandler.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/DeferredHandler.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\DeleteDropTarget.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/DeleteDropTarget.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\DragController.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/DragController.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\DragLayer.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/DragLayer.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\DragScroller.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/DragScroller.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\DragSource.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/DragSource.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\DragView.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/DragView.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\DrawableStateProxyView.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/DrawableStateProxyView.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\DropTarget.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/DropTarget.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\FastBitmapDrawable.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/FastBitmapDrawable.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\FocusHelper.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/FocusHelper.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\FocusOnlyTabWidget.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/FocusOnlyTabWidget.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\Folder.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/Folder.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\FolderEditText.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/FolderEditText.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\FolderIcon.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/FolderIcon.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\FolderInfo.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/FolderInfo.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\HandleView.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/HandleView.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\HolographicImageView.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/HolographicImageView.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\HolographicLinearLayout.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/HolographicLinearLayout.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\HolographicOutlineHelper.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/HolographicOutlineHelper.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\HolographicViewHelper.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/HolographicViewHelper.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\Hotseat.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/Hotseat.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\IconCache.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/IconCache.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\InfoDropTarget.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/InfoDropTarget.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\InstallShortcutReceiver.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/InstallShortcutReceiver.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\InstallWidgetReceiver.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/InstallWidgetReceiver.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\InterruptibleInOutAnimator.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/InterruptibleInOutAnimator.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\ItemInfo.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/ItemInfo.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\Launcher.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/Launcher.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\LauncherAnimatorUpdateListener.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/LauncherAnimatorUpdateListener.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\LauncherAppWidgetHost.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/LauncherAppWidgetHost.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\LauncherAppWidgetHostView.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/LauncherAppWidgetHostView.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\LauncherAppWidgetInfo.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/LauncherAppWidgetInfo.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\LauncherApplication.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/LauncherApplication.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\LauncherModel.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/LauncherModel.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\LauncherProvider.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/LauncherProvider.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\LauncherSettings.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/LauncherSettings.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\LauncherViewPropertyAnimator.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/LauncherViewPropertyAnimator.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\PagedView.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/PagedView.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\PagedViewCellLayout.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/PagedViewCellLayout.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\PagedViewCellLayoutChildren.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/PagedViewCellLayoutChildren.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\PagedViewGridLayout.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/PagedViewGridLayout.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\PagedViewIcon.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/PagedViewIcon.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\PagedViewIconCache.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/PagedViewIconCache.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\PagedViewWidget.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/PagedViewWidget.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\PagedViewWidgetImageView.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/PagedViewWidgetImageView.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\PagedViewWithDraggableItems.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/PagedViewWithDraggableItems.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\PendingAddItemInfo.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/PendingAddItemInfo.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\PreloadReceiver.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/PreloadReceiver.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\RocketLauncher.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/RocketLauncher.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\SearchDropTargetBar.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/SearchDropTargetBar.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\ShortcutAndWidgetContainer.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/ShortcutAndWidgetContainer.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\ShortcutInfo.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/ShortcutInfo.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\SmoothPagedView.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/SmoothPagedView.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\SpringLoadedDragController.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/SpringLoadedDragController.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\StrokedTextView.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/StrokedTextView.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\SymmetricalLinearTween.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/SymmetricalLinearTween.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\TweenCallback.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/TweenCallback.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\UninstallShortcutReceiver.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/UninstallShortcutReceiver.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\Utilities.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/Utilities.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\WallpaperChooser.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/WallpaperChooser.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\WallpaperChooserDialogFragment.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/WallpaperChooserDialogFragment.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\Workspace.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/Workspace.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\preference\DoubleNumberPickerPreference.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/preference/DoubleNumberPickerPreference.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\preference\NumberPickerPreference.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/preference/NumberPickerPreference.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\preference\Preferences.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/preference/Preferences.java" />
-      <change type="MOVED" beforePath="C:\Users\jetx2x\AppProjects\Trebuchet\src\com\cyanogenmod\trebuchet\preference\PreferencesProvider.java" afterPath="$PROJECT_DIR$/src/com/osiris/trebuchet/preference/PreferencesProvider.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-land/all_apps_cling.xml" afterPath="$PROJECT_DIR$/res/layout-land/all_apps_cling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-port/all_apps_cling.xml" afterPath="$PROJECT_DIR$/res/layout-port/all_apps_cling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-sw600dp-port/all_apps_cling.xml" afterPath="$PROJECT_DIR$/res/layout-sw600dp-port/all_apps_cling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-sw720dp/all_apps_cling.xml" afterPath="$PROJECT_DIR$/res/layout-sw720dp/all_apps_cling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-land/all_apps_sort_cling.xml" afterPath="$PROJECT_DIR$/res/layout-land/all_apps_sort_cling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-port/all_apps_sort_cling.xml" afterPath="$PROJECT_DIR$/res/layout-port/all_apps_sort_cling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-sw600dp/all_apps_sort_cling.xml" afterPath="$PROJECT_DIR$/res/layout-sw600dp/all_apps_sort_cling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-land/application.xml" afterPath="$PROJECT_DIR$/res/layout-land/application.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-port/application.xml" afterPath="$PROJECT_DIR$/res/layout-port/application.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-sw720dp-land/application.xml" afterPath="$PROJECT_DIR$/res/layout-sw720dp-land/application.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-sw720dp-port/application.xml" afterPath="$PROJECT_DIR$/res/layout-sw720dp-port/application.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-land/apps_customize_application.xml" afterPath="$PROJECT_DIR$/res/layout-land/apps_customize_application.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-port/apps_customize_application.xml" afterPath="$PROJECT_DIR$/res/layout-port/apps_customize_application.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/apps_customize_pane.xml" afterPath="$PROJECT_DIR$/res/layout/apps_customize_pane.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/apps_customize_widget.xml" afterPath="$PROJECT_DIR$/res/layout/apps_customize_widget.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/config.xml" afterPath="$PROJECT_DIR$/res/values/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/xml/default_workspace.xml" afterPath="$PROJECT_DIR$/res/xml/default_workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/xml-sw600dp/default_workspace.xml" afterPath="$PROJECT_DIR$/res/xml-sw600dp/default_workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/xml-sw720dp/default_workspace.xml" afterPath="$PROJECT_DIR$/res/xml-sw720dp/default_workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/drop_target_bar.xml" afterPath="$PROJECT_DIR$/res/layout/drop_target_bar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-land/folder_cling.xml" afterPath="$PROJECT_DIR$/res/layout-land/folder_cling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-port/folder_cling.xml" afterPath="$PROJECT_DIR$/res/layout-port/folder_cling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-sw600dp-port/folder_cling.xml" afterPath="$PROJECT_DIR$/res/layout-sw600dp-port/folder_cling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-sw720dp/folder_cling.xml" afterPath="$PROJECT_DIR$/res/layout-sw720dp/folder_cling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-sw720dp-port/folder_cling.xml" afterPath="$PROJECT_DIR$/res/layout-sw720dp-port/folder_cling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-land/folder_icon.xml" afterPath="$PROJECT_DIR$/res/layout-land/folder_icon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-port/folder_icon.xml" afterPath="$PROJECT_DIR$/res/layout-port/folder_icon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-land/hotseat.xml" afterPath="$PROJECT_DIR$/res/layout-land/hotseat.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-port/hotseat.xml" afterPath="$PROJECT_DIR$/res/layout-port/hotseat.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-land/launcher.xml" afterPath="$PROJECT_DIR$/res/layout-land/launcher.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-port/launcher.xml" afterPath="$PROJECT_DIR$/res/layout-port/launcher.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-sw720dp/launcher.xml" afterPath="$PROJECT_DIR$/res/layout-sw720dp/launcher.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/xml/preferences.xml" afterPath="$PROJECT_DIR$/res/xml/preferences.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proguard.flags" afterPath="$PROJECT_DIR$/proguard.flags" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/qsb_bar.xml" afterPath="$PROJECT_DIR$/res/layout/qsb_bar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-land/search_bar.xml" afterPath="$PROJECT_DIR$/res/layout-land/search_bar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-port/search_bar.xml" afterPath="$PROJECT_DIR$/res/layout-port/search_bar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-sw720dp/search_bar.xml" afterPath="$PROJECT_DIR$/res/layout-sw720dp/search_bar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-cs/strings.xml" afterPath="$PROJECT_DIR$/res/values-cs/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-da/strings.xml" afterPath="$PROJECT_DIR$/res/values-da/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values-nl/strings.xml" afterPath="$PROJECT_DIR$/res/values-nl/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/tab_widget_indicator.xml" afterPath="$PROJECT_DIR$/res/layout/tab_widget_indicator.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/xml/update_workspace.xml" afterPath="$PROJECT_DIR$/res/xml/update_workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/user_folder.xml" afterPath="$PROJECT_DIR$/res/layout/user_folder.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/wallpaper_chooser_base.xml" afterPath="$PROJECT_DIR$/res/layout/wallpaper_chooser_base.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-sw720dp/workspace.xml" afterPath="$PROJECT_DIR$/res/layout-sw720dp/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-land/workspace_cling.xml" afterPath="$PROJECT_DIR$/res/layout-land/workspace_cling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-port/workspace_cling.xml" afterPath="$PROJECT_DIR$/res/layout-port/workspace_cling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-sw720dp/workspace_cling.xml" afterPath="$PROJECT_DIR$/res/layout-sw720dp/workspace_cling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-sw720dp-port/workspace_cling.xml" afterPath="$PROJECT_DIR$/res/layout-sw720dp-port/workspace_cling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/workspace_screen.xml" afterPath="$PROJECT_DIR$/res/layout/workspace_screen.xml" />
     </list>
     <ignored path="Trebuchet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -499,7 +365,11 @@
       <created>1380389427469</created>
       <updated>1380389427469</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Refactored package com.cyanogenmod to com.osirs">
+      <created>1380389960299</created>
+      <updated>1380389960300</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -538,7 +408,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <value>
